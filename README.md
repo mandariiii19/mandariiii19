@@ -51,13 +51,13 @@ PR & Comms     SMM · Event management · Crisis communications
 
 ## Get in touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mandari_19)
-[![Email](https://img.shields.io/badge/Email-email@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manaevad975@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@mandari__19-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mandari_19)
+[![Email](https://img.shields.io/badge/Email-manaevad975@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manaevad975@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mandariiii19&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandariiii19&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
