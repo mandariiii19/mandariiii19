@@ -24,15 +24,14 @@ PR & Comms     SMM · Event management · Crisis communications
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| [Colour Palette Manager](https://github.com/YOUR_USERNAME/colour-palette-manager) | Java · MySQL · Swing | Full-stack desktop app with 5 design patterns (Singleton, Adapter, Facade, Observer, Command) |
+| [Colour Palette Manager](https://github.com/mandariiii19/colour-palette-manager) | Java · MySQL · Swing | Full-stack desktop app with 5 design patterns (Singleton, Adapter, Facade, Observer, Command) |
 | [Analytics Dashboard](https://github.com/YOUR_USERNAME/analytics-dashboard-tableau) | Tableau | Multi-page seismic data dashboard with AI forecast to 2027 |
-| [Data Warehouse Design](https://github.com/YOUR_USERNAME/data-warehouse-mysql) | MySQL · Star Schema | Academic data warehouse from scratch — 9 sources, 1 365 records, full ETL |
-| [TableKit](https://github.com/YOUR_USERNAME/tablekit) | Python | Table manipulation library: load/save, type inference, arithmetic, filtering, merge |
-| [Chess — OOP](https://github.com/YOUR_USERNAME/chess-oop) | Python/Java | Console chess engine with extensible piece hierarchy |
-| [Text Calculator](https://github.com/YOUR_USERNAME/text-calculator) | Python | Natural-language arithmetic parser with precedence and parentheses |
-| [ Maxit Game](https://github.com/YOUR_USERNAME/maxit-game) | Python/Java | Two-player console strategy game with constraint-based move logic |
+| [Data Warehouse Design](https://github.com/mandariiii19/Data-Warehousel) | MySQL · Star Schema | Academic data warehouse from scratch — 9 sources, 1 365 records, full ETL |
+| [TableKit](https://github.com/mandariiii19/tablekit) | Python | Table manipulation library: load/save, type inference, arithmetic, filtering, merge |
+| [Chess — OOP](https://github.com/mandariiii19/chess-oop) | Python/Java | Console chess engine with extensible piece hierarchy |
+| [Text Calculator](https://github.com/mandariiii19/text-calculator) | Python | Natural-language arithmetic parser with precedence and parentheses |
+| [ Maxit Game](https://github.com/mandariiii19/maxit-game) | Python/Java | Two-player console strategy game with constraint-based move logic |
 
----
 
 ## Languages
 
